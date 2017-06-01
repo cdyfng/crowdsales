@@ -1,3 +1,6 @@
 [submodule "mysterium/node"]
 	path = mysterium/node
 	url = https://github.com/MysteriumNetwork/node.git
+[submodule "bat/basic-attention-token-crowdsale"]
+	path = bat/basic-attention-token-crowdsale
+	url = https://github.com/brave-intl/basic-attention-token-crowdsale.git
