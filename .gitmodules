@@ -1,0 +1,3 @@
+[submodule "mysterium/node"]
+	path = mysterium/node
+	url = https://github.com/MysteriumNetwork/node.git
