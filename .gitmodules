@@ -4,3 +4,6 @@
 [submodule "bat/basic-attention-token-crowdsale"]
 	path = bat/basic-attention-token-crowdsale
 	url = https://github.com/brave-intl/basic-attention-token-crowdsale.git
+[submodule "status-im/status-network-token"]
+	path = status-im/status-network-token
+	url = https://github.com/status-im/status-network-token.git
