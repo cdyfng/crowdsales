@@ -7,3 +7,6 @@
 [submodule "status-im/status-network-token"]
 	path = status-im/status-network-token
 	url = https://github.com/status-im/status-network-token.git
+[submodule "bancorprotocol/contracts"]
+	path = bancorprotocol/contracts
+	url = https://github.com/bancorprotocol/contracts.git
