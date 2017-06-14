@@ -1,0 +1,5 @@
+.idea
+/build
+/CONTRIBUTING.md
+/bin
+node_modules

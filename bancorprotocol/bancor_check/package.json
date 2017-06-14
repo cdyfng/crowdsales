@@ -1,0 +1,20 @@
+{
+  "name": "bancor_check",
+  "version": "1.0.0",
+  "description": "bancor_check",
+  "main": "check.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "ethereum",
+    "data",
+    "bancor"
+  ],
+  "author": "cdyfng",
+  "license": "ISC",
+  "dependencies": {
+    "web3": "^0.15.3",
+    "winston": "^2.2.0"
+  }
+}
