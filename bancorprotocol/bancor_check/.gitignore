@@ -3,3 +3,4 @@
 /CONTRIBUTING.md
 /bin
 node_modules
+.node-*
