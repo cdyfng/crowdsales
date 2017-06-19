@@ -524,6 +524,10 @@ event.watch(function(error, result) {
   if (!error) {
     //console.log(result.args);
     ether_fund += web3.fromWei(result.args._amount, 'ether').toNumber();
-    console.log('total: ' + ether_fund)
+    let code = web3.eth.getCode(result.args._contributor)
+    //if (code != '0x') {
+    console.log('amount: ' + web3.fromWei(result.args._amount, 'ether') + " from: " + result.args._contributor
+      + " code: " + code)
+  //}
   }
 });
