@@ -1,4 +1,8 @@
-https://github.com/davidhq/SublimeEthereum
+---
+# List the source code of recent ico project
 
-copy Solidity.sublime-syntax into 
-~/Library/Application\ Support/Sublime\ Text\ 3/Packages/User/
+- Mysterium
+- BAT 2017.05.31 22:00
+- Status.io
+- bancorprotocol 2017.06.12
+
